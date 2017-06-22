@@ -1,0 +1,13 @@
+{
+  "name": "reqAIreBot",
+  "version": "0.0.1",
+  "description": "Simple testing IBM Watson",
+  "main": "app.js",
+  "author": "Maarten Lemmens",
+  "license": "Accenture",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "2.56.x"
+  }
+}
